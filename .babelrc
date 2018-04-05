@@ -1,5 +1,6 @@
 {
   "presets": ["react"],
+  "changes": ["Kldora"],
   "ignore": ["third_party"],
   "plugins": [
     "transform-class-properties",
